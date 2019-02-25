@@ -1,0 +1,37 @@
+.logo_info p {
+	margin: 0;
+	line-height: 1rem;
+}	
+
+.row-styled {
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+input[type=text], select {
+  width: 100%;
+  margin-bottom: 0.5rem;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  height: 2rem;
+}
+
+label {
+  margin-bottom: 0px;
+  display: block;
+}
+
+.btn {
+  width: 100%;
+}
+
+.message_error {
+  color: red;
+}
+  
+.message_success {
+  color: green;
+}
