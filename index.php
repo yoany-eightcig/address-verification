@@ -1,14 +1,6 @@
 <?php
 header("Access-Control-Allow-Origin: *");
 
-/*
-$bypassAddress = [
-    "750 tristram",
-    "21719 Crystal Way",
-    "25125 Orange Lane",
-];
-*/
-
 $bypassProvince = [
     "Puerto Rico",
 ];
