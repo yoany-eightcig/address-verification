@@ -38,7 +38,7 @@ if (count($_GET)) {
 
     $headers = array();
     $headers[] = 'Content-Type: application/json';
-    $headers[] = 'Api-Key: ElJkhJuQIRoFq/kDEblco4LpZqRCdYNIoAVG7SywSXw';
+    $headers[] = 'Api-Key: 9/pKcAHhs+LkK8BPlzF46rlmVD2hdv+N3+SE9+bIs64';
     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 
     $result = curl_exec($ch);
